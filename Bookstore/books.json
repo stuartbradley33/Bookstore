@@ -1,0 +1,51 @@
+[
+  {
+    "Title": "Unsolved murders",
+    "Author": "Emily G. Thompson, Amber Hunt",
+    "Genre": "Crime",
+    "Price": 10.99,
+    "Selected": true
+  },
+  {
+    "Title": "Alice in Wonderland",
+    "Author": "Lewis Carroll",
+    "Genre": "Fantasy",
+    "Price": 5.99,
+    "Selected": false
+  },
+  {
+    "Title": "A Little Love Story",
+    "Author": "Roland Merullo",
+    "Genre": "Romance",
+    "Price": 2.40,
+    "Selected": true
+  },
+  {
+    "Title": "Heresy",
+    "Author": "S J Parris",
+    "Genre": "Fantasy",
+    "Price": 6.80,
+    "Selected": true
+  },
+  {
+    "Title": "The Neverending STory",
+    "Author": "Michael Ende",
+    "Genre": "Fantasy",
+    "Price": 7.99,
+    "Selected": false
+  },
+  {
+    "Title": "Jack the Ripper",
+    "Author": "Philip Sugden",
+    "Genre": "Crime",
+    "Price": 16.00,
+    "Selected": true
+  },
+  {
+    "Title": "The Tolkien Years",
+    "Author": "Greg Hildebrandt",
+    "Genre": "Fantasy",
+    "Price": 22.90,
+    "Selected":  true
+  }
+]

@@ -1,0 +1,14 @@
+C:\Users\stuar\source\repos\Bookstore\bin\Debug\netcoreapp3.1\Bookstore.exe
+C:\Users\stuar\source\repos\Bookstore\bin\Debug\netcoreapp3.1\Bookstore.deps.json
+C:\Users\stuar\source\repos\Bookstore\bin\Debug\netcoreapp3.1\Bookstore.runtimeconfig.json
+C:\Users\stuar\source\repos\Bookstore\bin\Debug\netcoreapp3.1\Bookstore.runtimeconfig.dev.json
+C:\Users\stuar\source\repos\Bookstore\bin\Debug\netcoreapp3.1\Bookstore.dll
+C:\Users\stuar\source\repos\Bookstore\bin\Debug\netcoreapp3.1\Bookstore.pdb
+C:\Users\stuar\source\repos\Bookstore\obj\Debug\netcoreapp3.1\Bookstore.csprojAssemblyReference.cache
+C:\Users\stuar\source\repos\Bookstore\obj\Debug\netcoreapp3.1\Bookstore.AssemblyInfoInputs.cache
+C:\Users\stuar\source\repos\Bookstore\obj\Debug\netcoreapp3.1\Bookstore.AssemblyInfo.cs
+C:\Users\stuar\source\repos\Bookstore\obj\Debug\netcoreapp3.1\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\stuar\source\repos\Bookstore\obj\Debug\netcoreapp3.1\Bookstore.dll
+C:\Users\stuar\source\repos\Bookstore\obj\Debug\netcoreapp3.1\Bookstore.pdb
+C:\Users\stuar\source\repos\Bookstore\obj\Debug\netcoreapp3.1\Bookstore.genruntimeconfig.cache
+C:\Users\stuar\source\repos\Bookstore\bin\Debug\netcoreapp3.1\books.json
